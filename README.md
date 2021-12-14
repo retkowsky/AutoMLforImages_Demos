@@ -2,9 +2,9 @@
 
 AutoML for Images is currently in Public Preview.
 
-- Setup AutoML for Images: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
-- Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#model-specific-hyperparameters
-- Supported Algorithms: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#supported-model-algorithms
+- Setup AutoML for Images:<br> https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
+- Documentation:<br> https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#model-specific-hyperparameters
+- Supported Algorithms:<br> https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#supported-model-algorithms
 <br>
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/AutoML%20for%20Images.png?raw=true" width=900>
 <br>
