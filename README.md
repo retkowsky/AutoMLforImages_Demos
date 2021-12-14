@@ -1,9 +1,12 @@
-# AIShow_AutoMLforImages
-AutoML for Images demos
+# AutoML for Images demos
 
 AutoML for Images is currently in Public Preview.
-Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
 
+Setup AutoML for Images: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
+Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#model-specific-hyperparameters
+Supported Algorithms: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models#supported-model-algorithms
+
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/AutoML%20for%20Images.png?raw=true" width=900>
 
 14-Dec-2021
 
